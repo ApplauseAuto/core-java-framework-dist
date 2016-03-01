@@ -26,6 +26,7 @@
 		<org.testng.version>6.8.13</org.testng.version>
 		<org.seleniumhq.selenium.version>2.52.0</org.seleniumhq.selenium.version>
 		<io.appium.version>3.3.0</io.appium.version>
+		<com.google.guava.version>19.0</com.google.guava.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<github.global.server>github</github.global.server>
 		<rest-assured.version>2.5.0</rest-assured.version>
@@ -92,6 +93,12 @@
 			<artifactId>java-client</artifactId>
 			<version>${io.appium.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>${com.google.guava.version}</version>
+		</dependency>
+		
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
