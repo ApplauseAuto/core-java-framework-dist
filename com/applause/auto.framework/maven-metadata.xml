@@ -3,10 +3,10 @@
   <groupId>com.applause</groupId>
   <artifactId>auto.framework</artifactId>
   <versioning>
-    <release>1.3.75</release>
+    <release>1.3.69-parallel</release>
     <versions>
-      <version>1.3.75</version>
+      <version>1.3.69-parallel</version>
     </versions>
-    <lastUpdated>20160331133145</lastUpdated>
+    <lastUpdated>20160331134513</lastUpdated>
   </versioning>
 </metadata>
