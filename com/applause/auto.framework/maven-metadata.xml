@@ -3,10 +3,10 @@
   <groupId>com.applause</groupId>
   <artifactId>auto.framework</artifactId>
   <versioning>
-    <release>1.8.15-browserstack</release>
+    <release>1.8.16</release>
     <versions>
-      <version>1.8.15-browserstack</version>
+      <version>1.8.16</version>
     </versions>
-    <lastUpdated>20190319213115</lastUpdated>
+    <lastUpdated>20190401164440</lastUpdated>
   </versioning>
 </metadata>
