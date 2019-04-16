@@ -3,10 +3,10 @@
   <groupId>com.applause</groupId>
   <artifactId>auto.framework</artifactId>
   <versioning>
-    <release>1.8.17</release>
+    <release>1.8.11b-headless_poc</release>
     <versions>
-      <version>1.8.17</version>
+      <version>1.8.11b-headless_poc</version>
     </versions>
-    <lastUpdated>20190416162421</lastUpdated>
+    <lastUpdated>20190416180402</lastUpdated>
   </versioning>
 </metadata>
