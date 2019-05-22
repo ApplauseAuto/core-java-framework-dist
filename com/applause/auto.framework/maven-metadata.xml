@@ -3,10 +3,10 @@
   <groupId>com.applause</groupId>
   <artifactId>auto.framework</artifactId>
   <versioning>
-    <release>1.8.19-saucelabs-w3c1</release>
+    <release>1.8.19-saucelabs-w3c2</release>
     <versions>
-      <version>1.8.19-saucelabs-w3c1</version>
+      <version>1.8.19-saucelabs-w3c2</version>
     </versions>
-    <lastUpdated>20190514205118</lastUpdated>
+    <lastUpdated>20190522223524</lastUpdated>
   </versioning>
 </metadata>
